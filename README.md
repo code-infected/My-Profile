@@ -1,7 +1,7 @@
 # Athul Nair M
 
 <div align="right">
-  <img src="./3301602.jpg" width="100" height="100" alt="Animated Avatar">
+  <img src="./profile.png" width="200" height="200" alt="Animated Avatar">
 </div>
 
 👋 Hi, I'm Athul Nair M, a passionate software engineer with hands-on experience in web development and machine learning.
