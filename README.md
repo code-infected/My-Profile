@@ -66,9 +66,3 @@
 - Software Engineering virtual experience (JP Morgan Chase & CO) & (Blackbird-AUS)
 - Machine Learning with Python (freeCodeCamp)
 
-## Hobbies & Interests
-
-- Reading
-- Football
-- Gaming
-- Writing one-liners
