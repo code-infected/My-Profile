@@ -1,10 +1,10 @@
-# Athul Nair M
+# Athul Nair
 
 <div align="right">
   <img src="./profile.png" width="200" height="200" alt="Animated Avatar">
 </div>
 
-👋 Hi, I'm Athul Nair M, a passionate software engineer with hands-on experience in web development and machine learning.
+👋 Hi, I'm Athul Nair, a passionate software engineer with hands-on experience in web development and machine learning.
 
 - LinkedIn: [athul-nair-m](https://www.linkedin.com/in/athul-nair-m/)
 - GitHub: [Code-infected](https://github.com/Code-infected)
